@@ -5,6 +5,7 @@ public class mAAIN {
 		// TODO Auto-generated method stub
 		
 		System.out.println("HELLO");
+		System.out.println("HELLO2");
 
 	}
 
